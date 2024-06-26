@@ -1,3 +1,5 @@
+[![say-hello](https://github.com/zebpaa/hexlet-ci-app/actions/workflows/task.yml/badge.svg)](https://github.com/zebpaa/hexlet-ci-app/actions/workflows/task.yml)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
