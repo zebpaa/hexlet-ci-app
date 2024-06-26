@@ -1,5 +1,4 @@
-# сетап проекта, запуск тестов и линтера
-name: say-hello
+name: task
 on: push
 jobs:
   build:
